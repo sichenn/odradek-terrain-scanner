@@ -3,6 +3,8 @@
 
 This is a recreation of Death Stranding's Odradek Terrain Scanner - an on-command VFX that scans terrain traversal data, revealing where the player could fall on slippery surfaces, hide from enemies, or be swept away in deep water. The effect is achieved using VFX Graph and Custom Post Processing Component.
 
+The detailed breakdown is available on [80.lv](https://80.lv/articles/recreating-death-stranding-odradek-terrain-scanner-in-unity/)
+
 Project Configuration
 -------
 Unity 2022.1.8f1
